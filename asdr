@@ -3,7 +3,8 @@
 ```c
 int main() {
   printf("witaj świecie\n");
-}```
+}
+```
 
 ---
 
@@ -347,7 +348,7 @@ int main() {
 int i, n;
     printf("Podaj liczbe:");
     scanf("%d", &n);
-    for(i=1;i<=n;i++) {    					/*Pętla for*/
+    for(i=1;i<=n;i++) {  						/*Pętla for*/
 	printf("%d %d %d \n", i, i*i, i*i*i);
     }
     
