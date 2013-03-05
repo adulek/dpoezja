@@ -1,1 +1,3 @@
-ghjbjbjb.md
+int main() {
+  printf("witaj świecie\n");
+}
