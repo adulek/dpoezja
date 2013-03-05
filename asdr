@@ -1,3 +1,3 @@
-int main() {
+<code>int main() {
   printf("witaj świecie\n");
-}
+}</code>
